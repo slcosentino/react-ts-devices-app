@@ -1,0 +1,11 @@
+# Ignore all test files:
+*.test.tsx
+*.feature
+**/cypress
+
+# Ignore artifacts:
+build
+coverage
+
+# Ignore all HTML files:
+*.html
